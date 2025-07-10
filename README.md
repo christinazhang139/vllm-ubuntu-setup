@@ -29,8 +29,6 @@
 - **[📦 vLLM Installation](docs/05-vllm-installation.md)** - Complete installation of virtual environment, PyTorch and vLLM
 - **[✅ Verification Testing](docs/06-verification.md)** - Installation verification
 
-### ✅ Verification and Optimization
-- **[✅ Post-Installation Verification](#-post-installation-verification)** - Confirm successful installation
 
 ---
 
@@ -140,9 +138,6 @@ You already have a PyTorch environment:
 
 ---
 
-## ✅ Post-Installation Verification
-
-After completing all installation steps, make sure to run the complete environment verification:
 
 **[🔍 Complete Environment Verification Script](docs/06-verification.md)** - One-time check of all components for correct installation
 
